@@ -10,3 +10,4 @@ oryctolagus cuniculus
 myotis lucifugus
 Monodelphis domestica
 gallus gallus 
+Ornithorhynchus anatinus
